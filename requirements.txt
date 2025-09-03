@@ -1,0 +1,23 @@
+# Core CrewAI Framework
+crewai>=0.28.8
+crewai-tools>=0.1.6
+
+# LLM and Language Models
+langchain-google-genai>=1.0.1
+google-generativeai>=0.3.2
+
+# Data Processing
+pandas>=2.0.3
+numpy>=1.24.3
+python-dotenv>=1.0.0
+
+# Machine Learning and Anomaly Detection
+scikit-learn>=1.3.0
+pyod>=1.1.0
+
+# File and Path Handling
+pathlib2>=2.3.7
+
+# Optional: For enhanced data analysis
+matplotlib>=3.7.1
+seaborn>=0.12.2
